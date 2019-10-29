@@ -34,10 +34,9 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/wingsxdu/MyResource
 
 #### Go语言
 
-- [**《A tour of go》**](https://tour.go-zh.org/welcome/1) `Golang` 初识官方教程 
+- [**A tour of go**](https://tour.go-zh.org/welcome/1) `Golang` 初识官方教程 
 - [**Go 语言圣经**]( https://wizardforcel.gitbooks.io/gopl-zh/content/preface.html ) `Go`入门
-
-- [**《Go 语言高级编程》**](https://chai2010.cn/advanced-go-programming-book)开源图书
+- [**Go 语言高级编程**](https://chai2010.cn/advanced-go-programming-book)开源图书
 - [**Go语言 中文网**]( https://studygolang.com/ ) 中国大型的`go`语言爱好者交流社区
 - [**gRPC**]( https://github.com/grpc ) `gRPC`的官方例子
 - [**gRPC说明文档**]( https://grpc.io/docs/tutorials/basic/go/ ) `gRPC`的说明文档
