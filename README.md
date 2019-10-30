@@ -54,7 +54,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 
 #### 密码学
 
-- [**我的密码学课笔记（胡予濮教授）**](./resources\ModernCryptography) 胡予濮教授教的现代密码学，做的一些比较重要的笔记
+- [**我的密码学课笔记（胡予濮教授）**](./resources/ModernCryptography) 胡予濮教授教的现代密码学，做的一些比较重要的笔记
 
 
 - [**密码学极速入门**]( https://ethfans.org/posts/a-crash-course-in-everything-cryptographic ) 密码学极速入门
