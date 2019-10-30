@@ -14,12 +14,15 @@
 
 选择两个大的素数
 
-![](http://latex.codecogs.com/gif.latex? \\\p和q) 
+> $$
+> p和q
+> $$
 
+计算
 
-计算0
-
-![](http://latex.codecogs.com/gif.latex? \\\phi(n) = (p-1)(q-1)) 
+$$
+\phi(n) = (p-1)(q-1)
+$$
 
 选择两个正整数e和d,满足：
 
@@ -120,15 +123,16 @@ $$
 $$
 e(1)d(1)+e(2)d(2) =1
 $$
+
 于是，攻击者Eve 能够计算
 $$
-\begin{align*}
+
 c(1)^{d(1)}c(2)^{d(2)} (modn)
 
-& \equiv m^{e(1)d(1)}m^{e(2)d(2)} (modn)\\
+ \equiv m^{e(1)d(1)}m^{e(2)d(2)} (modn)\\
 
-& \equiv m
-\end{align*}
+ \equiv m
+
 $$
 （不妨设d(1)>0，因此d(2)<0，此时需要计算c(2)-d(2) (modn)的逆元）
 
