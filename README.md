@@ -63,7 +63,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 #### 好论文
 
 - [**我看过的论文**](./resources/Paper) 我看过的论文，主要是分布式网络的共识、扩容、跨链等
-- [**区块链相关论文**]() `Github`上较齐全的区块链论文收集 
+- [**区块链相关论文**](https://github.com/decrypto-org/blockchain-papers) `Github`上较齐全的区块链论文收集 
 
 #### Docker
 
@@ -85,7 +85,8 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 #### 网站
 
 - [**SegmentFault 思否**](https://segmentfault.com/) 在 `SegmentFault`，学习技能、解决问题
-- [**Go语言 中文网**]( https://studygolang.com/ ) 中国大型的`go`语言爱好者交流社区
+- [**Go语言 中文网**](https://studygolang.com/) 中国大型的`go`语言爱好者交流社区
+- [**Go语言爱好者周刊**](https://github.com/polaris1119/golangweekly) 中国大型的`go`语言爱好者交流社区
 - [**以太坊论坛**](https://ethfans.org/) 关于以太坊、区块链、密码学等优质的文章分享
 - [**随机数概论——VRF，Commit Reveal，BLS的原理及应用**]( https://blog.csdn.net/qq_34062105/article/details/86016067 ) 随机数`VRF` 的基本原理说明
 
