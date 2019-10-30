@@ -86,7 +86,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 
 - [**SegmentFault 思否**](https://segmentfault.com/) 在 `SegmentFault`，学习技能、解决问题
 - [**Go语言 中文网**](https://studygolang.com/) 中国大型的`go`语言爱好者交流社区
-- [**Go语言爱好者周刊**](https://github.com/polaris1119/golangweekly) 中国大型的`go`语言爱好者交流社区
+- [**Go语言爱好者周刊**](https://github.com/polaris1119/golangweekly) `Go`语言爱好者周刊,每周日发布技术性探讨文章
 - [**以太坊论坛**](https://ethfans.org/) 关于以太坊、区块链、密码学等优质的文章分享
 - [**随机数概论——VRF，Commit Reveal，BLS的原理及应用**]( https://blog.csdn.net/qq_34062105/article/details/86016067 ) 随机数`VRF` 的基本原理说明
 
