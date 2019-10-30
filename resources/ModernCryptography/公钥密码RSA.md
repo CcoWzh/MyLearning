@@ -126,13 +126,13 @@ $$
 
 于是，攻击者Eve 能够计算
 $$
-
+\begin{align*}
 c(1)^{d(1)}c(2)^{d(2)} (modn)
 
- \equiv m^{e(1)d(1)}m^{e(2)d(2)} (modn)\\
+& \equiv m^{e(1)d(1)}m^{e(2)d(2)} (modn)\\
 
- \equiv m
-
+& \equiv m
+\end{align*}
 $$
 （不妨设d(1)>0，因此d(2)<0，此时需要计算c(2)-d(2) (modn)的逆元）
 
