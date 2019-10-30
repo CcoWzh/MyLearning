@@ -14,15 +14,13 @@
 
 选择两个大的素数
 
-> $$
-> p和q
-> $$
+http://chart.googleapis.com/chart?cht=tx&chl=\Large p和q
 >
 
 计算0
-$$
-\phi(n) = (p-1)(q-1)
-$$
+
+http://chart.googleapis.com/chart?cht=tx&chl=\Large phi(n) = (p-1)(q-1)
+
 选择两个正整数e和d,满足：
 
 $$
