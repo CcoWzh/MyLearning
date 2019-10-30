@@ -106,6 +106,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 
 - [**git - 简易指南**]( https://www.bootcss.com/p/git-guide/ ) git - 简易指南
 - [**在线电子书转换器**](http://cn.epubee.com/) 在线电子书转换器
+- [**16进制转字符串**](https://www.bejson.com/convert/ox2str/) 16进制转文本字符串
 
 #### 网站
 
