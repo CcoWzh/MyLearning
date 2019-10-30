@@ -3,7 +3,7 @@
 
 PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/issues)
 
-![love](./img/涂山红红.jpg)
+![love](https://github.com/CcoWzh/MyLearning/blob/master/img/涂山红红.jpg)
 
 ## 关于作者
 
