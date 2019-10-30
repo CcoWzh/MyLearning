@@ -3,7 +3,7 @@
 
 PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/issues)
 
-![love](https://github.com/CcoWzh/MyLearning/blob/master/img/涂山红红.jpg)
+![love](./img/honghong.jpg)
 
 ## 关于作者
 
@@ -58,7 +58,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 
 
 - [**密码学极速入门**]( https://ethfans.org/posts/a-crash-course-in-everything-cryptographic ) 密码学极速入门
-- [**ECC椭圆曲线加解密**](https://blog.csdn.net/sitebus/article/details/82835492) ECC椭圆曲线加解密原理详解(配图)
+- [**ECC椭圆曲线加解密**](https://blog.csdn.net/sitebus/article/details/82835492) `ECC`椭圆曲线加解密原理详解(配图)
 
 #### 好论文
 
@@ -84,7 +84,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 
 #### 网站
 
-- [**SegmentFault 思否**](https://segmentfault.com/) 在 SegmentFault，学习技能、解决问题
+- [**SegmentFault 思否**](https://segmentfault.com/) 在 `SegmentFault`，学习技能、解决问题
 - [**Go语言 中文网**]( https://studygolang.com/ ) 中国大型的`go`语言爱好者交流社区
 - [**以太坊论坛**](https://ethfans.org/) 关于以太坊、区块链、密码学等优质的文章分享
 - [**随机数概论——VRF，Commit Reveal，BLS的原理及应用**]( https://blog.csdn.net/qq_34062105/article/details/86016067 ) 随机数`VRF` 的基本原理说明
@@ -114,5 +114,5 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 
 - [**比特币交易浏览器 BLOCKCHAIN**]( https://www.blockchain.com/zh/btc/tx/fe6c48bbfdc025670f4db0340650ba5a50f9307b091d9aaa19aa44291961c69f?show_adv=true ) 比特币浏览器
 
-  ​
+  
 
