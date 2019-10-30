@@ -14,12 +14,12 @@
 
 选择两个大的素数
 
- ![](http://latex.codecogs.com/gif.latex? \\\p和q) 
+![](http://latex.codecogs.com/gif.latex? \\\p和q) 
 
 
 计算0
 
-                               ![](http://latex.codecogs.com/gif.latex? \\\phi(n) = (p-1)(q-1)) 
+![](http://latex.codecogs.com/gif.latex? \\\phi(n) = (p-1)(q-1)) 
 
 选择两个正整数e和d,满足：
 
