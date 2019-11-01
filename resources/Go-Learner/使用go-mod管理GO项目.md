@@ -47,7 +47,7 @@ $ cd /tmp/scratchpad/hello
 生成`go.mod`文件：
 
 ```
-$ git init hello 
+$ go mod init hello 
 ```
 
 写测试文件：
