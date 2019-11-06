@@ -39,7 +39,8 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 - [**通俗易懂，图解以太坊**]( https://www.infoq.cn/article/how-does-ethereum-work-anyway ) 我们画了些图，并用通俗的语言，来解释天才程序员设计的以太坊
 - [**ACM Queue 顶级论文：厘清关于区块链、比特币的所有误区**]( https://blog.csdn.net/tangxiaoyin/article/details/80131400 ) 比特币中使用技术的论文之前世今生
 - [**跨链技术的分析和思考**](https://learnblockchain.cn/2019/03/23/blockchain_interoperability/) 区块链的跨链方案讲解的最全的文章
-- [**7 个步骤入门区块链**]( https://ethfans.org/posts/blockchain-for-beginners-what-is-blockchain-just-7-step ) 7 个步骤入门区块链
+- [**7 个步骤入门区块链**](https://ethfans.org/posts/blockchain-for-beginners-what-is-blockchain-just-7-step ) 7 个步骤入门区块链
+- [**使用Go 构建区块链**](https://blog.csdn.net/yinghe_one/article/details/87951146) 在Go中构建区块链 第7部分：网络
 
 #### Go语言
 
