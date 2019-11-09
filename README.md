@@ -90,7 +90,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 - [**Go语言爱好者周刊**](https://github.com/polaris1119/golangweekly) `Go`语言爱好者周刊,每周日发布技术性探讨文章
 - [**以太坊论坛**](https://ethfans.org/) 关于以太坊、区块链、密码学等优质的文章分享
 - [**随机数概论——VRF，Commit Reveal，BLS的原理及应用**](https://blog.csdn.net/qq_34062105/article/details/86016067 ) 随机数`VRF` 的基本原理说明
-
+- [**Ethereum Research**](https://ethresear.ch/) 以太坊官方讨论群，英文网站，有许多优质的话题和最新的技术，对研究区块链有很大的启发
 #### 书籍推荐
 
 - 经济学和博弈论
@@ -122,6 +122,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 - [**git - 简易指南**](https://www.bootcss.com/p/git-guide/ ) git - 简易指南
 - [**在线电子书转换器**](http://cn.epubee.com/) 在线电子书转换器
 - [**16进制转字符串**](https://www.bejson.com/convert/ox2str/) 16进制转文本字符串
+- [**Graphviz**](http://www.graphviz.org/) 程序员的绘图利器，代码生成图像，简单且漂亮
 
 #### 网站
 
