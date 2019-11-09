@@ -92,7 +92,9 @@ go get -u xxx.com/pkg@2.1.0
 
 ### 参考
 
-[Go 1.11 Modules 官方说明文档](https://github.com/golang/go/wiki/Modules) 
+-[Go 1.11 Modules 官方说明文档](https://github.com/golang/go/wiki/Modules) 
 
-[Go Module 入门使用](https://segmentfault.com/a/1190000016676359)
+-[Go Module 入门使用](https://segmentfault.com/a/1190000016676359)
+-[**阿里云Go Module代理仓库服务**](https://mirrors.aliyun.com/goproxy/)
+
 
