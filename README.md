@@ -44,12 +44,13 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 
 #### Go语言
 
+- [**go.dev**](https://go.dev/ ) `golang.org`官网打造的社交平台，该站点被Go核心团队寄望于成为全世界Gopher开发人员的中心。它将告诉gopher（无论新手还是老油条）：谁在使用Go、用Go做什么、怎么学习Go（资源多多）
+
 - [**我的gRPC笔记**](./resources/Go-Learner/gRPC) 本人关于`gRPC`的理解和使用
 
 
 - [**A tour of go**](https://tour.go-zh.org/welcome/1) `Golang` 初识官方教程 
 - [**Go 语言高级编程**](https://chai2010.cn/advanced-go-programming-book)开源图书
-- [**Go 语言标准库**](https://studygolang.com/pkgdoc )  `Golang`标准库,对于程序员而言，标准库与语言本身同样重要  
 - [**gRPC说明文档**]( https://grpc.io/docs/tutorials/basic/go/ ) `gRPC`的说明文档
 - [**一个学习Go的各大框架和功能的网站（五星推荐）**]( https://www.tizi365.com/archives/406.html ) 梯子教程网
 
@@ -91,6 +92,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 - [**以太坊论坛**](https://ethfans.org/) 关于以太坊、区块链、密码学等优质的文章分享
 - [**随机数概论——VRF，Commit Reveal，BLS的原理及应用**](https://blog.csdn.net/qq_34062105/article/details/86016067 ) 随机数`VRF` 的基本原理说明
 - [**Ethereum Research**](https://ethresear.ch/) 以太坊官方讨论群，英文网站，有许多优质的话题和最新的技术，对研究区块链有很大的启发
+- [**Go 语言标准库**](https://studygolang.com/pkgdoc )  `Golang`标准库,对于程序员而言，标准库与语言本身同样重要  
 #### 书籍推荐
 
 - 经济学和博弈论
