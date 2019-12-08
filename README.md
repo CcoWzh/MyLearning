@@ -116,6 +116,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 #### 观点
 
 - [**给年轻程序员的4条提升建议**](https://blog.csdn.net/qq_42606051/article/details/80997253) 编程大神写的《给年轻程序员的4条提升建议》
+- [**陈皓-左耳朵耗子**](https://www.bootcss.com/p/git-guide/ ) 对我很有启发的一个博客博主，对技术、个人发展都有很精彩的评论
 
 ### 学习工具
 
@@ -124,7 +125,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 - [**git - 简易指南**](https://www.bootcss.com/p/git-guide/ ) git - 简易指南
 - [**在线电子书转换器**](http://cn.epubee.com/) 在线电子书转换器
 - [**16进制转字符串**](https://www.bejson.com/convert/ox2str/) 16进制转文本字符串
-- [**Graphviz**](http://www.graphviz.org/) 程序员的绘图利器，代码生成图像，简单且漂亮
+- [**Graphviz**](https://coolshell.cn/) 程序员的绘图利器，代码生成图像，简单且漂亮
 
 #### 网站
 
