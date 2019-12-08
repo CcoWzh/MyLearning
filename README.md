@@ -116,7 +116,7 @@ PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/i
 #### 观点
 
 - [**给年轻程序员的4条提升建议**](https://blog.csdn.net/qq_42606051/article/details/80997253) 编程大神写的《给年轻程序员的4条提升建议》
-- [**陈皓-左耳朵耗子**](https://www.bootcss.com/p/git-guide/ ) 对我很有启发的一个博客博主，对技术、个人发展都有很精彩的评论
+- [**陈皓-左耳朵耗子**](https://coolshell.cn/) 对我很有启发的一个博客博主，对技术、个人发展都有很精彩的评论
 
 ### 学习工具
 
