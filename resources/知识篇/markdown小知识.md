@@ -18,14 +18,16 @@
 ```html
 <details>
 <summary>展开</summary>
-展开内容
+填充内容
+</details>
 ```
 
 示例：
 
 <details>
 <summary>展开</summary>
-展开内容
+填充内容
+</details>
 
 ### 如何居中图片
 
