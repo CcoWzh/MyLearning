@@ -1,9 +1,9 @@
 # 所学知识整理和资源分享
 18年读研后开始学习编程，研究方向是区块链，主攻区块链跨链方向。现在有些积累了，感谢开源社区的提供的资源帮助让我快速成长。这里我也想分享一些我的学习心得和自己整理的一些资源。
 
-PS. 好资源推荐请提交 [**issues**](https://github.com/CcoWzh/MyLearning/issues)
-
-![love](./img/honghong.jpg)
+<div align="center">
+<img src="./img/honghong.jpg"></img>
+</div>
 
 ## 关于作者
 
